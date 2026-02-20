@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi 👋 I’m Bekhzod — an Android developer passionate about building clean, scalable mobile applications.<br>I enjoy solving real-world problems with code and continuously improving my skills in software architecture and performance
 
 
